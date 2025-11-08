@@ -1,3 +1,9 @@
+<!-- HEADER WITH ANIMATED BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&pause=600&color=21D4FD&vCenter=true&width=800&lines=Carl+Rommel+Layawa;Electrical+Engineer;Construction+Estimator;Drafting+%26+VA+Project+Support" />
+</p>
+
+
 # 👋 Hi, I'm **Carl Rommel Layawa**
 
 ### **🔌 Electrical Engineer | 📐 Construction Estimator | 💻 Virtual Assistant in-Training**
